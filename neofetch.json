@@ -29,8 +29,8 @@
         { "key": "Commits", "value": "{{commits}}" },
         { "key": "Forks", "value": "{{forks}}" },
         { "key": "Issues", "value": "{{issues}}" },
-        { "key": "Pull Requests", "value": "{{pullRequests}}" },
-        { "key": "Lines of Code", "value": "{{lines}} ( {{linesAdd}}, {{linesDel}} )" }
+        { "key": "Pull Requests", "value": "{{pullrequests}}" },
+        { "key": "Lines of Code", "value": "{{linesOfCode}}" }
       ]
     }
   ]
