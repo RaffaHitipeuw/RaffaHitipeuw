@@ -18,6 +18,20 @@
         { "key": "Website", "value": "-" },
         { "key": "LinkedIn", "value": "https://www.linkedin.com/in/raffa-hitipeuw" }
       ]
+    },
+    {
+      "title": "- GitHub Stats",
+      "fields": [
+        { "key": "Repos", "value": "{{repos}}" },
+        { "key": "Stars", "value": "{{stars}}" },
+        { "key": "Following", "value": "{{following}}" },
+        { "key": "Followers", "value": "{{followers}}" },
+        { "key": "Commits", "value": "{{commits}}" },
+        { "key": "Forks", "value": "{{forks}}" },
+        { "key": "Issues", "value": "{{issues}}" },
+        { "key": "Pull Requests", "value": "{{pullrequests}}" },
+        { "key": "Lines of Code", "value": "{{lines}}" }
+      ]
     }
   ]
 }
