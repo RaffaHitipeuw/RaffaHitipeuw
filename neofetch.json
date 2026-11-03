@@ -1,0 +1,24 @@
+{
+  "image": "https://raw.githubusercontent.com/RaffaHitipeuw/RaffaHitipeuw/main/path-ke-gambar-kamu.png",
+  "coloredImage": true,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "title": "GitHub Stats",
+      "fields": [
+        { "key": "Repos", "value": "{{repos}}" },
+        { "key": "Stars", "value": "{{stars}}" },
+        { "key": "Commits", "value": "{{commits}}" },
+        { "key": "Lines of Code", "value": "{{linesOfCode}}" }
+      ]
+    }
+  ]
+}
