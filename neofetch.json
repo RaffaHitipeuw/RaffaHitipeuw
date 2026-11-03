@@ -30,7 +30,7 @@
         { "key": "Forks", "value": "{{forks}}" },
         { "key": "Issues", "value": "{{issues}}" },
         { "key": "Pull Requests", "value": "{{pullRequests}}" },
-        { "key": "Lines of Code", "value": "{{linesOfCode}}" }
+        { "key": "Lines of Code", "value": "{{lines}} ( {{linesAdd}}, {{linesDel}} )" }
       ]
     }
   ]
