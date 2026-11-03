@@ -5,18 +5,31 @@
     {
       "title": "{{username}}@github",
       "fields": [
-        { "key": "Name", "value": "{{name}}" },
-        { "key": "Location", "value": "{{location}}" },
+        { "key": "Name", "value": "Raffa Hitipeuw" },
+        { "key": "Location", "value": "Jakarta, Indonesia" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" }
       ]
     },
     {
-      "title": "GitHub Stats",
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "raffahitipeuw@gmail.com" },
+        { "key": "Website", "value": "-" },
+        { "key": "LinkedIn", "value": "https://www.linkedin.com/in/raffa-hitipeuw" }
+      ]
+    },
+    {
+      "title": "- GitHub Stats",
       "fields": [
         { "key": "Repos", "value": "{{repos}}" },
         { "key": "Stars", "value": "{{stars}}" },
+        { "key": "Following", "value": "{{following}}" },
+        { "key": "Followers", "value": "{{followers}}" },
         { "key": "Commits", "value": "{{commits}}" },
+        { "key": "Forks", "value": "{{forks}}" },
+        { "key": "Issues", "value": "{{issues}}" },
+        { "key": "Pull Requests", "value": "{{pullRequests}}" },
         { "key": "Lines of Code", "value": "{{linesOfCode}}" }
       ]
     }
